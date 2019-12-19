@@ -1,0 +1,12 @@
+{
+    "id": "3b0237ff8fe2deeae9b3607b7a46f565",
+    "name": "Papertrail logs",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": []
+}
