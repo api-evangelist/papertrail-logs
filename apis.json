@@ -1,0 +1,60 @@
+{
+    "name": "Papertrail logs",
+    "description": "Frustration-free log management. Seamlessly manage logs from apps, servers, and cloud services.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/883-papertrail-logs.jpg",
+    "tags": [
+        "have api",
+        "logging"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/papertrail-logs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Papertrail logs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/883-papertrail-logs.jpg",
+            "humanURL": "https:\/\/papertrailapp.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/papertrail-logs-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.papertrailapp.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.papertrailapp.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/papertrail"
+        },
+        {
+            "type": "Email",
+            "url": "support@papertrailapp.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/papertrail"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/papertrailapp"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/papertrailapp.com\/"
+        }
+    ]
+}
